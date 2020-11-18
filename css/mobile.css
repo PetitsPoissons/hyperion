@@ -1,0 +1,66 @@
+/* Navbar */
+
+#navbar .logo {
+  float: none;
+  text-align: center;
+}
+
+#navbar ul,
+#navbar ul li {
+  float: none;
+}
+
+#navbar ul li a {
+  padding: 0.5rem;
+  border-bottom: var(--gray-color) dotted 0.1rem;
+}
+
+/* Showcase */
+#showcase {
+  height: 100%;
+}
+
+#showcase .showcase-content {
+  padding-top: 7rem;
+  padding-bottom: 3rem;
+}
+
+/* Space Info */
+#space-info {
+  height: 40vh;
+}
+
+#space-info .info-img {
+  display: none;
+}
+
+#space-info .info-content {
+  float: none;
+  width: 100%;
+}
+
+/* Features */
+.box {
+  float: none;
+  width: 100%;
+}
+
+/* About Info */
+#about-info .info-right,
+#about-info .info-left {
+  float: none;
+  width: 100%;
+}
+
+.l-heading {
+  text-align: center;
+}
+
+#about-info .info-right {
+  margin-top: 3rem;
+}
+
+/* Contact Form */
+#contact-info .box {
+  border-bottom: var(--gray-color) dotted 0.1rem;
+}
