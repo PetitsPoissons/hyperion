@@ -1,13 +1,7 @@
 /* Navbar */
 
 #navbar .logo {
-  float: none;
   text-align: center;
-}
-
-#navbar ul,
-#navbar ul li {
-  float: none;
 }
 
 #navbar ul li a {
@@ -35,20 +29,17 @@
 }
 
 #space-info .info-content {
-  float: none;
   width: 100%;
 }
 
 /* Features */
 .box {
-  float: none;
   width: 100%;
 }
 
 /* About Info */
 #about-info .info-right,
 #about-info .info-left {
-  float: none;
   width: 100%;
 }
 
